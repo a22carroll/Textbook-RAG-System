@@ -1,0 +1,30 @@
+Test
+
+
+Ask a question (or 'q' to quit): Can you explain the five golden rules in chapter 2
+
+📌 The five golden rules in chapter 2 relate to reporting a parameter that was determined experimentally:
+
+1) The best estimate of a parameter is the mean. This refers to the average calculated from the data. 
+
+2) The error is the standard error in the mean. The standard error of the mean is a measure of the dispersion of sample means around the population mean.
+
+3) Round up the error to the appropriate number of significant figures. Significant figures are all the digits that can be known accurately plus one estimated digit. 
+
+4) Match the number of decimal places in the mean to the standard error. This ensures that all calculations and results are standardized accurately. 
+
+5) Include units. This is a basic requirement in all scientific measurements and experimental results. 
+
+Ask a question (or 'q' to quit): Can you explain The functional approach for multi-variable functions in simple terms
+
+📌 Certainly, the functional approach for multi-variable functions is basically about determining the error or uncertainty in a function that depends on multiple variables. 
+
+Firstly, we consider a function Z that depends on two variables, A and B. Our best estimate of Z will be given through a point on a 2D surface, represented by Z = f(A, B). 
+
+The error in Z has two aspects. Firstly, there's the change in Z that happens when A is varied while keeping B constant. Conversely, there's also a change when B is varied while A is held constant. These changes are represented by αA Z and αB Z respectively. 
+
+Assuming that the uncertainties in A and B are not related, and that they are independent variables, we can obtain the total error in Z by adding the components in a method similar to Pythagoras's theorem. 
+
+In real-world cases, there can be more variables involved. Then the same concept is applied in multiple dimensions to find the final result. The variance of each component (error due to each variable change) is squared and added together to get the total error in Z. 
+
+It's important to note that this approach can only be used when the variables are independent, meaning that they do not correlate with each other. If they are not independent, other statistical methods may be needed. 
